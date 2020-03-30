@@ -1,0 +1,17 @@
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\PruebasClases.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Newtonsoft.Json.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\PruebasClases.pdb
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\bin\Debug\Newtonsoft.Json.xml
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb

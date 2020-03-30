@@ -1,0 +1,7 @@
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\bin\Debug\PruebasClases.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\bin\Debug\PruebasClases.pdb
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\bin\Debug\Newtonsoft.Json.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\bin\Debug\Newtonsoft.Json.xml
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\obj\Debug\PruebasClases.csproj.CopyComplete
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\obj\Debug\PruebasClases.dll
+D:\Personales\Maestria\Pruebas de Integracion\PruebasIntegracionAPP\PruebasClases\obj\Debug\PruebasClases.pdb
